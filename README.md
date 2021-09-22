@@ -7,5 +7,5 @@
 
 
 ## PART II. Computer-Vision
-- HW3 : 101_ObjectCategories 이미지 분류
-- HW4 : CIFAR 10 이미지 분류하는 CNN 모델
+- HW3 : Spatial Histogram을 활용한 101_ObjectCategories 이미지 분류
+- HW4 : CNN 모델을 활용한 CIFAR 10 이미지 분류

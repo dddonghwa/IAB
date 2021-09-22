@@ -8,4 +8,4 @@
 
 ## PART II. Computer-Vision
 - HW3 : 101_ObjectCategories 이미지 분류
-- HW4 : CIFAR 10 이미지 분류하는 CNN 모델 만들기
+- HW4 : CIFAR 10 이미지 분류하는 CNN 모델

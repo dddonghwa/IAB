@@ -7,3 +7,7 @@
 
 
 ## PART II. Computer-Vision
+- [HW3](https://github.com/dddonghwa/IAB/blob/main/Computer-Vision/3_classification.ipynb) : Spatial Histogram을 활용한 101_ObjectCategories 이미지 분류
+- HW4 : CNN 모델을 활용한 CIFAR 10 이미지 분류
+
+## PART III. Linear Regression

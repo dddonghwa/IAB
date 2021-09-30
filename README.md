@@ -11,3 +11,4 @@
 - [HW4](https://github.com/dddonghwa/IAB/blob/main/Computer-Vision/5_CIFAR10_CNN_PyTorch.ipynb) : CNN 모델을 활용한 CIFAR 10 이미지 분류
 
 ## PART III. Regression
+- [HW5](https://github.com/dddonghwa/IAB/blob/main/Regression/Assignment_GeneralLinearRegression.ipynb) : General Linear Regression 모델 학습
